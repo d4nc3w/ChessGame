@@ -1,0 +1,2 @@
+A rook moves any number of vacant squares horizontally or vertically. 
+It also is moved when castling.

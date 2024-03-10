@@ -1,0 +1,3 @@
+A knight moves to one of the nearest squares not on the same rank, file, or diagonal. 
+(This can be thought of as moving two squares horizontally then one square vertically, or moving one square horizontally then two squares vertically—i.e. in an "L" pattern.) 
+The knight is not blocked by other pieces; it jumps to the new location.

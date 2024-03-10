@@ -1,0 +1,2 @@
+The king moves exactly one square horizontally, vertically, or diagonally. 
+A special move with the king known as castling is allowed only once per player, per game.

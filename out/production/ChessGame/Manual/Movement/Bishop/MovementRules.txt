@@ -1,0 +1,2 @@
+A bishop moves any number of vacant squares diagonally. 
+(Thus a bishop can move to only light or dark squares, not both.)

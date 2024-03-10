@@ -1,0 +1,5 @@
+Pawns have the most complex rules of movement:
+A pawn moves straight forward one square, if that square is vacant. 
+If it has not yet moved, a pawn also has the option of moving two squares straight forward, provided both squares are vacant. 
+Pawns cannot move backwards.
+The pawn is also involved in the two special moves en passant and promotion.

@@ -1,0 +1,7 @@
+Each type of chess piece has its own method of movement. 
+A piece moves to a vacant square except when capturing an opponent's piece.
+
+Except for any move of the knight and castling, pieces cannot jump over other pieces. 
+A piece is captured (or taken) when an attacking enemy piece replaces it on its square. 
+The captured piece is thereby permanently removed from the game.
+The king can be put in check but cannot be captured.

@@ -1,0 +1,1 @@
+The queen moves any number of vacant squares horizontally, vertically, or diagonally.
